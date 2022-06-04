@@ -1,0 +1,89 @@
+body {
+  background-color: green;
+}
+a {
+  float: right;
+  color: black;
+  padding: 0px;
+  margin: 12px 12px 12px 12px;
+}
+span {
+  padding: 10px;
+  margin: top 10px bottom 12px;
+  color: orange;
+  font-size: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+form {
+  float: right;
+  border: 12px black;
+  /* margin-top: 120px; */
+  margin: top 120px right 120px;
+  background-color:blue;
+  border-radius: 10px;
+  width: fit-content;
+}
+
+h1 {
+  color: balck;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 125px;
+  float: left;
+  padding: 1px;
+  margin-top: 120px;
+}
+p {
+  font-weight: bolder;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+section {
+  color: black;
+  font-weight: bolder;
+  margin: 12px 10px;
+}
+input {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+button {
+  color: black;
+  background-color: green;
+  border-radius: 12px;
+  margin-top: 10px;
+  position: relative;
+  width: 3cm;
+  height: 1cm;
+}
+hr {
+  font-weight: bolder;
+  color: black;
+}
+nav p {
+  float: left;
+  font-size: larger;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: black;
+  margin: top 12px bottom 12px right 12px left 12px;
+}
+section p {
+  color: yellow;
+  font-weight: bolder;
+  float: left;
+}
+textarea
+{
+  background-color:white;
+  float: right;
+}
+nav progress
+{
+  color: green;
+  float: left;
+}
+.progress
+{
+  text-align: justify;
+  text-decoration: wavy;
+
+}
